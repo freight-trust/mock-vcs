@@ -1,0 +1,18 @@
+git_ssh text eol=lf
+repo text eol=lf
+hooks/* text eol=lf
+*.sh     eol=lf
+*.bash   eol=lf
+*.zsh    eol=lf
+*.shfbproj text
+*.sln    text
+*.snk    binary
+*.xml    text
+*.xsd    text
+*.xsl    text
+*.yml    text
+# gpg related
+*.gpg filter=gpg diff=gpg
+*.asc filter=gpg diff=gpg
+# git archive 
+test/ export-ignore
