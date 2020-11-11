@@ -1,0 +1,6 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:libinterchange="http://schemas.freighttrust.com/registry/libinterchange"
+    package="com.freighttrust.libinterchange"
+    libinterchange:versionCode="1"
+    libinterchange:versionName="1.0" >

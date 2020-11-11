@@ -1,0 +1,17 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>libinterchange</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>network.as2.libinterchange</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>network.as2.edi.interchange</nature>
+	</natures>
+</projectDescription>
